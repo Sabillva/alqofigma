@@ -1,0 +1,352 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+h2.first {
+  width: 365px;
+  height: 93px;
+  top: 1040px;
+  left: 121px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto Slab;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 55.76px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+h2.second {
+  width: 667px;
+  height: 93px;
+  top: 2000px;
+  left: 121px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto Slab;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 55.76px;
+  text-align: left;
+  margin-bottom: 30px;
+  /* background: #000000; */
+}
+
+h2.third {
+  width: 667px;
+  height: 93px;
+  top: 2510px;
+  left: 121px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto Slab;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 55.76px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.course,
+.format,
+.what-we-learn {
+  padding: 50px 0;
+}
+
+.course-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.course-text {
+  /* flex: 1;
+  margin-right: 20px; */
+  width: 662px;
+  height: 374px;
+  top: 1151px;
+  left: 121px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.course-image {
+  flex: 0 0 250px;
+}
+
+.course-image img {
+  width: 314px;
+  height: 315px;
+  top: 1175px;
+  left: 973px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.course-image2 img {
+  width: 366px;
+  height: 59px;
+  top: 1460px;
+  left: 947px;
+  gap: 0px;
+  opacity: 0px;
+  /* background: #efefef; */
+}
+
+.course-stats {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.stat {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.stat strong.first {
+  width: 150px;
+  height: 39px;
+  top: 1689px;
+  left: 485px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.stat strong.second {
+  width: 150px;
+  height: 39px;
+  top: 1689px;
+  left: 730px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.stat strong.third {
+  width: 150px;
+  height: 39px;
+  top: 1689px;
+  left: 973px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.stat p.first {
+  width: 150px;
+  height: 39px;
+  top: 1729px;
+  left: 485px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.stat p.second {
+  width: 150px;
+  height: 39px;
+  top: 1729px;
+  left: 730px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.stat p.third {
+  width: 150px;
+  height: 39px;
+  top: 1729px;
+  left: 973px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.course-image3 img {
+  width: 232px;
+  height: 203px;
+  top: 1619px;
+  left: 121px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.course-image4 img {
+  width: 189px;
+  height: 32px;
+  top: 1806px;
+  left: 154px;
+  gap: 0px;
+  opacity: 0px;
+  /* background: #efefef; */
+}
+
+.format-info {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.format-item {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.format-item strong.first {
+  width: 150px;
+  height: 39px;
+  top: 2182px;
+  left: 122px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: left;
+  color: #1e4681;
+}
+
+.format-item strong.second {
+  width: 150px;
+  height: 39px;
+  top: 2182px;
+  left: 467px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: left;
+  color: #1e4681;
+}
+
+.format-item strong.third {
+  width: 150px;
+  height: 39px;
+  top: 2182px;
+  left: 851px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 32.5px;
+  text-align: left;
+  color: #1e4681;
+}
+
+.format-item p.first {
+  width: 223px;
+  height: 39px;
+  top: 2222px;
+  left: 122px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.format-item p.second {
+  width: 271px;
+  height: 109px;
+  top: 2222px;
+  left: 467px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+.format-item p.third {
+  width: 245px;
+  height: 39px;
+  top: 2222px;
+  left: 851px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+  /* background: #000000; */
+}
+
+ul {
+  list-style-type: disc;
+  /* padding-left: 20px; */
+}
+
+li {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: left;
+  width: 662px;
+  /* height: 374px; */
+  top: 2624px;
+  left: 138px;
+  gap: 0px;
+  opacity: 0px;
+  /* background: #000000; */
+
+  /* margin-bottom: 10px; */
+}
